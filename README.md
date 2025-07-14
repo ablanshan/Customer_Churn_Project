@@ -1,1 +1,2 @@
-# Customer_Churn_Project
+# Customer Churn Project
+Customer Churn is an essential metric for businesses to understand the the rate of customers leaving a service/product. Utilizing data science, we are able to conduct a methodology that can figure out the cause of customer churn, and to predict future customer churn using machine learning. The methodology of this project is in the jupyter notebook file labeled "Customer_Churn_complete.ipynb". The notebook explains the process step by step while creating potential business solutions for customer churn in this case. 
